@@ -69,4 +69,4 @@ Aspiring **Python Developer** with a strong foundation in programming, eager to 
 ## 📌 Let's Connect!
 
 I'm open to opportunities and collaborations in Python development, data analysis, and AI.  
-Feel free to reach out via email or [connect with me on LinkedIn](#) *(https://www.linkedin.com/in/frank-alexander-eraso-adarme-89b131213/)*.
+Feel free to reach out via email or [connect with me on LinkedIn](https://www.linkedin.com/in/frank-alexander-eraso-adarme-89b131213/).
