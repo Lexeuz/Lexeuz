@@ -104,5 +104,3 @@ Colegio Comfandi El Prado — Colombia
   > “Computer Engineering student passionate about cybersecurity (junior level), skilled in Python data analysis and a strong team collaborator.”  
 
 ---
-
-*Feel free to copy and paste this into your GitHub README to showcase your updated, GitHub-ready resume.*  
