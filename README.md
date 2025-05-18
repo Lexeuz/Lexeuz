@@ -1,72 +1,108 @@
-# 👋 Hi, I'm Frank Alexander Eraso Adarme
+# 👋 Hi, I’m Frank Alexander Eraso Adarme
 
-📍 Duisburg, Germany  
+📍 Duisburg 47058, Germany  
 📧 alexandererasoa@gmail.com  
 📱 +49 15115819824  
+[LinkedIn](https://www.linkedin.com/in/frank-alexander-eraso-adarme-89b131213/)  
 
 ---
 
 ## 🎯 Objective
 
-Aspiring **Python Developer** with a strong foundation in programming, eager to participate in mentorship programs and real-world projects. Ready to build upon experience in **web development** and **technical mentoring** to advance into **cloud computing**, **GenAI**, and **RESTful API design**.
+Aspiring **Junior Cybersecurity & Data Analyst** with a Bachelor’s in Computer Engineering (in progress). Proficient in **Python** for data analysis and foundational cybersecurity practices; eager to contribute to entry-level security assessments and data-driven decision-making.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Python Topics:** Data structures, OOP, core syntax, exception handling  
-- **Web Technologies:** React, Angular, REST APIs, JSON  
-- **Databases:** SQL (PostgreSQL), basic NoSQL understanding  
-- **Tools:** Git, GitHub, Jupyter, VS Code  
-- **Other:** Agile (Scrum), Debugging, Data Cleaning  
+- **Programming & Scripting:** Python (data cleaning, scripting, basic pentesting scripts)  
+- **Database & Querying:** SQL (PostgreSQL), basic NoSQL concepts  
+- **Data Analysis:** Pandas, NumPy, data visualization fundamentals (Matplotlib)  
+- **Cybersecurity Fundamentals:** Networking basics (TCP/IP, OSI layers), firewall/IDS awareness, vulnerability scanning with open-source tools  
+- **Web Development:** HTML, CSS, JavaScript, React, Angular, RESTful APIs  
+- **Version Control & Collaboration:** Git, GitHub, Agile (Scrum) workflows  
 
 ---
 
-## 🧪 Relevant Experience
+## 💼 Relevant Experience
 
-### 💡 Programming Tutor | *Remote*  
-*Apr 2022 – Aug 2022*  
-- Taught Python fundamentals including control flow, functions, and object-oriented design  
-- Guided students in electronics projects and software prototyping  
-- Developed personalized exercises to enhance problem-solving and coding logic  
+### 🛡️ Junior Cybersecurity & Data Analysis Projects  
+*Sep 2023 – Present | Duisburg, Germany*  
+- Developed Python scripts to parse and analyze local network logs, identifying anomalous traffic patterns using basic statistical techniques.  
+- Configured a home-lab firewall (pfSense) to practice rule creation, monitored logs, and blocked simulated Nmap scans.  
+- Performed SQL queries on open datasets (Kaggle) to extract insights (e.g., traffic accident trends), then visualized results with Python/Matplotlib.  
+- Explored basic vulnerability scanning tools (e.g., Nmap, OpenVAS) and documented findings in structured reports.  
 
-### 🌐 Web Developer | *Freelance – Remote*  
-*Jan 2020 – Jun 2022*  
-- Built interactive websites using HTML, CSS, JavaScript, React, and Angular  
-- Translated user needs into functional and responsive web products  
-- Used Git and Agile practices in collaborative environments  
+### 🌐 Web Developer (Freelance – Remote)  
+*Jan 2020 – Jun 2022 | Colombia*  
+- Developed responsive websites (HTML, CSS, JavaScript) and single-page applications using React and Angular.  
+- Collaborated in Agile teams, contributing to user stories, pull requests, and code reviews via Git/GitHub.  
+- Integrated RESTful APIs to fetch and display JSON data; implemented basic client-side validation to enhance security and user experience.  
+
+### 🧑‍🏫 Programming Tutor (Freelance – Remote)  
+*Apr 2022 – Aug 2022 | Colombia*  
+- Taught Python fundamentals: control flow, functions, object-oriented design; introduced basic data structures (lists, dictionaries).  
+- Guided students through electronics projects that required writing Python scripts to control microcontrollers.  
+- Designed custom exercises to improve algorithmic thinking and problem-solving skills.  
+
+### 🎒 Primary School Teaching Assistant  
+*Sep 2022 – Jun 2023 | Colegio Nuestra Señora del Perpetuo Socorro, Colombia*  
+- Assisted in sports and English lessons; developed communication and collaboration skills by working closely with lead teachers and parents.  
+- Conducted extracurricular dance workshops, demonstrating adaptability and leadership in a multicultural environment.  
+
+### 👶 Au Pair  
+*Apr 2024 – Apr 14 2025 | Andernach & Duisburg, Germany*  
+- Managed childcare duties, developing strong interpersonal skills, patience, and cross-cultural communication.  
+- Immersed in German culture and language; advanced from A1 to A2 level through daily practice.  
+- Enhanced organizational skills by planning daily routines and resolving conflicts among children, reinforcing problem-solving abilities.  
 
 ---
 
 ## 🎓 Education
 
 **B.Sc. in Computer Engineering** *(In Progress, last semester)*  
-📍 Universidad Internacional de la Rioja – Spain (Remote)  
-🗓️ Sep 2019 – June 2025  
+Universidad Internacional de la Rioja (UNIR) — Remote (Colombia)  
+*Sep 2019 – Jun 2025*  
 
-**Technical High School – Electronics**  
-📍 Colegio Comfandi El Prado – Colombia  
+**Fachabiturient – Schwerpunkt Elektronik**  
+Colegio Comfandi El Prado — Colombia  
+*Oct 2017 – Jun 2018*  
+
+---
+
+## 📜 Certifications
+
+- **EF SET English Certificate (C2 Proficient)** — EF SET, Oct 2024  
+- **Deutschzertifikat A1** — Goethe Institut, Jun 2023  
+- **Erste-Hilfe-Zertifikat** — ASEVIS, Nov 2023  
 
 ---
 
 ## 🌍 Languages
 
-- 🇪🇸 Spanish: Native  
-- 🇬🇧 English: B2+ (CEFR)  
-- 🇩🇪 German: A1  
+- **Spanish:** Native  
+- **English:** C2 (EF SET)  
+- **German:** A2 (studying)  
 
 ---
 
-## 💡 Key Strengths
+## 🤝 Key Strengths & Soft Skills
 
-- ✅ Self-motivated and fast learner  
-- 🚀 Passionate about Python, cloud tools, and AI-driven technologies  
-- 🤝 Team-oriented with strong communication and analytical skills  
+- **Team Collaboration:** Proven ability to work effectively in Agile teams (web dev) and educational settings (tutoring, teaching assistant).  
+- **Communication:** Strong written/verbal skills in English and Spanish; developing clear technical documentation and reports.  
+- **Critical Thinking & Problem-Solving:** Analyzes network logs and data sets to identify anomalies; adapts quickly to new tools and methodologies.  
+- **Adaptability & Cultural Awareness:** Lived and worked in Colombia and Germany; comfortable collaborating in multicultural environments.  
+- **Organizational Skills:** Balanced full-time studies, Au Pair responsibilities, and self-initiated cybersecurity/data analysis projects; prioritizes tasks under deadlines.  
 
 ---
 
-## 📌 Let's Connect!
+## 🔗 Additional Information
 
-I'm open to opportunities and collaborations in Python development, data analysis, and AI.  
-Feel free to reach out via email or [connect with me on LinkedIn](https://www.linkedin.com/in/frank-alexander-eraso-adarme-89b131213/).
+- **Current Residence:** Duisburg 47058, Germany  
+- **Availability:** Open to junior roles or internships in cybersecurity, data analysis, or Python development; willing to relocate within Germany/EU.  
+- **LinkedIn About:**  
+  > “Computer Engineering student passionate about cybersecurity (junior level), skilled in Python data analysis and a strong team collaborator.”  
+
+---
+
+*Feel free to copy and paste this into your GitHub README to showcase your updated, GitHub-ready resume.*  
