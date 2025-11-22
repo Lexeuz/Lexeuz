@@ -1,89 +1,78 @@
 # 👋 Hi, I’m Frank Alexander Eraso Adarme
 
-📍 Duisburg 47058, Germany  
-📧 alexandererasoa@gmail.com  
+📍 Münster, 48155, Germany  
+📧 alexandereadarme@gmail.com  
 📱 +49 15115819824  
-[LinkedIn](https://www.linkedin.com/in/frank-alexander-eraso-adarme-89b131213/)
+[LinkedIn](https://www.linkedin.com/in/alexander-adarme)  
+[GitHub Portfolio](https://github.com/lexeuz)
 
 ---
 
 ## 🎯 Objective
 
-Aspiring **Junior Cybersecurity & Data Analyst** with a solid foundation in Python programming and a background in computer engineering. Passionate about protecting digital environments and deriving insights from data. Currently seeking entry-level roles or internships in cybersecurity, data analysis, or Python development.
+Aspiring **Junior Cybersecurity & Python Developer** with hands-on experience in **Python scripting, automation, and vulnerability assessment**. Passionate about **cybersecurity, IT infrastructure, and data-driven solutions**. Seeking an entry-level role where I can apply my skills, continue learning, and contribute to securing systems and optimizing processes.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages:** Python, SQL, JavaScript, HTML, CSS  
-- **Data Analysis:** Pandas, NumPy, Matplotlib, data cleaning, basic visualization  
-- **Cybersecurity:** Networking fundamentals, vulnerability scanning, firewalls, system hardening basics  
-- **Web Development:** React, Angular, RESTful APIs  
+- **Programming & Scripting:** Python (automation, log analysis, scripting), Bash  
+- **Cybersecurity:** Vulnerability assessment (Nmap, OpenVAS), SIEM/IDS concepts, OWASP Top 10, risk analysis, basic cloud security (AWS EC2, S3, IAM, MFA)  
+- **Cloud & IT Infrastructure:** AWS basics, Linux/Windows environments, virtual machines  
+- **Web Development (optional projects):** HTML, CSS, JavaScript, React  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, data cleaning, visualization  
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
-- **Other:** Agile (Scrum), debugging, teamwork
+- **Methodologies:** Agile (Scrum), documentation, security awareness  
+- **Soft Skills:** Communication, teamwork, adaptability, problem-solving, time management
 
 ---
 
-## 💼 Relevant Experience
+## 💼 Projects & Hands-on Experience
 
-### 🛡️ Junior Cybersecurity & Data Analysis Projects  
-*Sep 2023 – Present · Duisburg, Germany*  
-- Developed Python scripts to analyze network logs and detect anomalies.  
-- Configured a home lab firewall (pfSense) and monitored logs to simulate and block attacks.  
-- Explored vulnerability scanning tools (Nmap, OpenVAS) and documented basic findings.  
-- Worked with open datasets (Kaggle) to practice data querying with SQL and visualized results with Matplotlib.
+### 🔹 Python Log Analyzer – Cybersecurity Project  
+- Automated script to detect **failed logins, suspicious IPs, and brute-force patterns**.  
+- Improved monitoring capabilities and **security awareness**.  
 
-### 🌐 Web Developer (Freelance – Remote)  
-*Jan 2020 – Jun 2022 · Colombia*  
-- Built responsive websites using HTML, CSS, JavaScript, React, and Angular.  
-- Collaborated in Agile teams, using Git/GitHub and Scrum methodologies.  
-- Integrated REST APIs and optimized UX for dynamic web apps.
+### 🔹 Vulnerability Assessment Lab  
+- Performed **virtual machine scans**, documented risks, and suggested **countermeasures**.  
+- Applied **OWASP Top 10** concepts for web security testing.  
 
-### 🧑‍🏫 Python & Electronics Tutor  
-*Apr 2022 – Aug 2022 · Colombia*  
-- Taught Python fundamentals including control flow, functions, and OOP.  
-- Guided students in electronics projects using programmable boards.  
-- Created custom exercises to improve logic and problem-solving skills.
+### 🔹 DVWA Security Testing  
+- Explored **SQL Injection, XSS, broken authentication, and misconfigurations** in a controlled lab.  
 
-### 🎒 Primary School Teaching Assistant  
-*Sep 2022 – Jun 2023 · Colombia*  
-- Supported lessons in sports and English.  
-- Led extracurricular dance activities and improved team collaboration skills.  
-- Strengthened communication and organizational skills through classroom coordination.
+### 🔹 Cloud Security Lab (AWS)  
+- Configured **IAM roles, MFA enforcement, EC2 firewall rules, and secure S3 bucket policies**.  
+- Practiced cloud security fundamentals and **access management**.  
 
-### 👶 Au Pair  
-*Apr 2024 – Apr 14 2025 · Andernach & Duisburg, Germany*  
-- Adapted to a new culture while improving German (now A2 level).  
-- Managed childcare, planning routines and resolving daily challenges.  
-- Demonstrated responsibility, empathy, and problem-solving in a dynamic environment.
+### 🔹 Web & Automation Projects  
+- Built personal websites using **HTML, CSS, JavaScript, and React**.  
+- Developed automation scripts to **analyze datasets and generate reports**.  
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Computer Engineering** *(In Progress – Final Semester)*  
-Universidad Internacional de La Rioja (UNIR) · Remote · Sep 2019 – Jun 2025  
+**B.Sc. in Computer Engineering** – Universidad Internacional de La Rioja (UNIR) · Remote · 2021 – 2025  
 
-**Technical High School – Electronics**  
-Colegio Comfandi El Prado · Colombia · 2017 – 2018
+**Technical High School – Electronics** – Colegio Comfandi El Prado, Colombia · 2017 – 2018  
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **100 Days of Python** – 100daysofpython.dev  
-- ✅ **Data & Business Analytics Certificate** – Universidad Internacional de La Rioja  
-- ✅ **EF SET English Certificate (C2 Proficient)**  
-- ✅ **Deutschzertifikat A1** – Goethe Institut  
-- ✅ **Erste-Hilfe-Zertifikat** – ASEVIS (Germany)
+- ![Google] **Google Cybersecurity Professional Certificate**  
+- ![IBM] **IBM Cybersecurity Analyst Certificate**  
+- ![AWS] **AWS Cloud Practitioner Essentials**  
+- ![Python] **Google IT Automation with Python**  
+- ![Data] **Data Analysis with Python – FreeCodeCamp**  
 
 ---
 
 ## 🌍 Languages
 
 - **Spanish:** Native  
-- **English:** C2 – Fluent  
-- **German:** A2 – Currently studying
+- **English:** C1 – Fluent  
+- **German:** B1 – Currently improving  
 
 ---
 
@@ -93,11 +82,19 @@ Colegio Comfandi El Prado · Colombia · 2017 – 2018
 - 🧠 Critical thinking & problem-solving  
 - 🗣️ Strong written and verbal communication  
 - 🌍 Cultural adaptability (experience in Colombia & Germany)  
-- 🕓 Time management & multitasking under pressure
+- 🕓 Time management & multitasking under pressure  
+
+---
+
+## 🎯 Hobbies & Personal Interests
+
+- Cybersecurity labs, Python automation projects, machine learning experiments  
+- Sports and team activities: Basketball, Tae Kwon Do, Track & Field  
+- Continuous learning: online courses, workshops, and coding challenges  
 
 ---
 
 ## 🔗 Let’s Connect!
 
-I’m open to junior roles and collaborations in **cybersecurity**, **data analysis**, and **Python development**.  
-Feel free to reach out by email or [connect with me on LinkedIn](https://www.linkedin.com/in/frank-alexander-eraso-adarme-89b131213/).
+I’m looking for **junior roles in cybersecurity, Python development, automation, or data analysis**.  
+Feel free to reach out via **email** or [**LinkedIn**](https://www.linkedin.com/in/alexander-adarme).
