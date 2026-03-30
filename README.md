@@ -52,7 +52,9 @@ Aspiring **Junior Cybersecurity & Python Developer** with hands-on experience in
 
 ## 🎓 Education
 
-**B.Sc. in Computer Engineering** – Universidad Internacional de La Rioja (UNIR) · Remote · 2021 – 2025  
+**M.Sc. in Telecommunication Technologies, Systems and Networks** – Universitat Politècnica de València (UPV) · Valencia, Spain · 2026 - 2027 
+
+**B.Sc. in Computer Engineering** – Universidad Internacional de La Rioja (UNIR) · Bogota · 2021 – 2025  
 
 **Technical High School – Electronics** – Colegio Comfandi El Prado, Colombia · 2017 – 2018  
 
@@ -60,11 +62,11 @@ Aspiring **Junior Cybersecurity & Python Developer** with hands-on experience in
 
 ## 📜 Certifications
 
-- ![Google] **Google Cybersecurity Professional Certificate**  
-- ![IBM] **IBM Cybersecurity Analyst Certificate**  
-- ![AWS] **AWS Cloud Practitioner Essentials**  
-- ![Python] **Google IT Automation with Python**  
-- ![Data] **Data Analysis with Python – FreeCodeCamp**  
+- **Google Cybersecurity Professional Certificate**  
+- **IBM Cybersecurity Analyst Certificate**  
+- **AWS Cloud Practitioner Essentials**  
+- **Google IT Automation with Python**  
+- **Data Analysis with Python – FreeCodeCamp**  
 
 ---
 
